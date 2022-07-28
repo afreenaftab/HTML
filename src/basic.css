@@ -1,0 +1,16 @@
+.home-horizontal-alignment {
+  display: flex !important;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  align-content: space-between;
+  align-items: center;
+}
+
+td {
+  padding: 5px;
+}
+
+li {
+  padding: 5px;
+}
